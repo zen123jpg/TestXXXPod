@@ -1,0 +1,22 @@
+{
+  "name": "TestXXXPod",
+  "version": "0.1.0",
+  "summary": "A short description of TestXXXPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jj866338@gmail.com/TestXXXPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jj866338@gmail.com": "jj866338@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/jj866338@gmail.com/TestXXXPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestXXXPod/Classes/**/*"
+}

@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+  - TestXXXPod (0.1.0)
+
+DEPENDENCIES:
+  - Expecta
+  - Specta
+  - TestXXXPod (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  TestXXXPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+  TestXXXPod: 9db83d0846de2aaccb612923d96c9789374ba653
+
+PODFILE CHECKSUM: 6fca697160d81f3cae54b71f0f65481f6daec74a
+
+COCOAPODS: 1.10.0.beta.1
