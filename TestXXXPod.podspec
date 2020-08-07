@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TestXXXPod'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of TestXXXPod.'
 
   s.description      = <<-DESC
@@ -30,6 +30,5 @@ TODO: Add long description of the pod here.
   #   'TestXXXPod' => ['TestXXXPod/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
 end
