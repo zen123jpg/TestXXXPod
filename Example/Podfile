@@ -1,0 +1,7 @@
+use_frameworks!
+target 'TestXXXPod_Tests' do
+  pod 'TestXXXPod', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end
