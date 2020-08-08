@@ -24,7 +24,7 @@ TODO: Add long description1 of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'TestXXXPod/PhotoBrowser/**/*'
+  s.source_files = 'TestXXXPod/Classes/**/*'
   
   # s.resource_bundles = {
   #   'TestXXXPod' => ['TestXXXPod/Assets/*.png']
